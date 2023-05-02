@@ -26,4 +26,4 @@ Flight_1.GOG.srt
 * Copy `gyroflow-batch.sh` to the directory containing the files and run it.
 * It will show the files will be processed and ask for confirmation before running. 
 * Assumes the Air Unit video files and Betaflight blackbox logs are renamed to the format above.
-* The files are processed using the `preset.gyroflow` preset.
+* The files are processed using the `slow-smooth-preset.gyroflow` preset.

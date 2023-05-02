@@ -2,6 +2,7 @@
 
 Some simple tools to automate the decamp process after a good day's droning.
 Rename the files first, then run the gyroflow batch process.
+
 Gyroflow is an excellent open-source project to stabilise video footage with gyro data:
 https://gyroflow.xyz/
 
